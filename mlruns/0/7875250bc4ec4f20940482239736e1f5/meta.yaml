@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/girendadhiandreardianugrah/Downloads/YYU/Workflow-CI/mlruns/0/7875250bc4ec4f20940482239736e1f5/artifacts
+end_time: 1750058053932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7875250bc4ec4f20940482239736e1f5
+run_name: Tuned_Logistic_Regression_Best_Run
+run_uuid: 7875250bc4ec4f20940482239736e1f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750058051200
+status: 3
+tags: []
+user_id: girendadhiandreardianugrah
